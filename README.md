@@ -1,4 +1,43 @@
 ## python_toolbox
 
-- the repo is to store some useful fragments of codes
+- [点这里][i]
+ 1
+2
+3
+1
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+1
+1
+1
+[i]: 到这里
+
+
+ 
 
